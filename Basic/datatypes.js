@@ -13,4 +13,17 @@ let check // undefined datatype
 console.log(typeof check);
 
 // Non Primitive datatype
-//objects
+// Arrays 
+// objects
+
+const heros=["hulk","thor",123,true];
+let myObj={
+    name:"Varun",
+    age:21,
+    check:true
+}
+
+console.log(typeof heros)
+console.log(heros)
+console.log(typeof myObj)
+console.log(myObj)
